@@ -1,0 +1,7 @@
+verilog work "shift_Register_sipo.v"
+verilog work "shift_register.v"
+verilog work "full_Adder.v"
+verilog work "D_flip_flop.v"
+verilog work "bit_adder.v"
+verilog work "bit_adder_tb.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

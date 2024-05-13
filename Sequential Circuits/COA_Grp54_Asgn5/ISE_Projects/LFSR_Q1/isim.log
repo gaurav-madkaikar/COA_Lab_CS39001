@@ -1,0 +1,27 @@
+ISim log file
+Running: C:\Users\gmadk\Desktop\KGP Acad\5th Sem\COA\COA Laboratory\Assignment 5 - FSM Design\LFSR_Q1\LFSR_tst_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_tst_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  20 ns:	State                    1 -    1111
+                  40 ns:	State                    2 -    0111
+                  60 ns:	State                    3 -    0011
+                  80 ns:	State                    4 -    0001
+                 100 ns:	State                    5 -    1000
+                 120 ns:	State                    6 -    0100
+                 140 ns:	State                    7 -    0010
+                 160 ns:	State                    8 -    1001
+                 180 ns:	State                    9 -    1100
+                 200 ns:	State                   10 -    0110
+                 220 ns:	State                   11 -    1011
+                 240 ns:	State                   12 -    0101
+                 260 ns:	State                   13 -    1010
+                 280 ns:	State                   14 -    1101
+                 300 ns:	State                   15 -    1110
+                 320 ns:	State                   16 -    1111
+Stopped at time : 340 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_tst.v" Line 67

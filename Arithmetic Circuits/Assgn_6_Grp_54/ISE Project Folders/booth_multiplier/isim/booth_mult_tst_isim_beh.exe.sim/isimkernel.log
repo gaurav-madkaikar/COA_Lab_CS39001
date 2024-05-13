@@ -1,0 +1,28 @@
+Command line:
+   booth_mult_tst_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49262
+
+Sun Oct 10 22:27:52 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5466.05 Meg
+
+ Total Signals          : 112
+ Total Nets             : 112
+ Total Signal Drivers   : 50
+ Total Blocks           : 21
+ Total Primitive Blocks : 17
+ Total Processes        : 55
+ Total Traceable Variables  : 30
+ Total Scalar Nets and Variables : 316
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 4836.9 Meg
+
+Sun Oct 10 23:34:43 2021
+

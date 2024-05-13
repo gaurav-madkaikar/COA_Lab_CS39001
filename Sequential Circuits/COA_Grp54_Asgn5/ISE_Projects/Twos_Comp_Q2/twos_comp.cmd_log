@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/Twos_Comp_Q2/twos_comp.xst" -ofn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/Twos_Comp_Q2/twos_comp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 "twos_comp.ngc" twos_comp.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o twos_comp_map.ncd twos_comp.ngd twos_comp.pcf 
+par -w -intstyle ise -ol high -mt off twos_comp_map.ncd twos_comp.ncd twos_comp.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml twos_comp.twx twos_comp.ncd -o twos_comp.twr twos_comp.pcf 

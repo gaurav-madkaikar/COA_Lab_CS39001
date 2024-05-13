@@ -1,0 +1,153 @@
+ISim log file
+Running: C:\Users\gmadk\Desktop\KGP Acad\5th Sem\COA\COA Laboratory\Assignment 6 - Verilog\booth_multiplier\booth_mult_tst_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Stopped at time : 22 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 68
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Stopped at time : 22 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Stopped at time : 22 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Example                    3: The product of 219 and  79 is        0000000000100111 !
+Example                    5: The product of 219 and  79 is        xxxxxxxxx0010011 !
+Example                    7: The product of 219 and  79 is        xxxxxxxxxx001001 !
+Example                    9: The product of 219 and  79 is        xxxxxxxxxxx00100 !
+Example                   11: The product of 219 and  79 is        xxxxxxxxxxxx0010 !
+Example                   13: The product of 219 and  79 is        xxxxxxxxxxxxx001 !
+Example                   15: The product of 219 and  79 is        xxxxxxxxxxxxxx00 !
+Example                   17: The product of 219 and  79 is        xxxxxxxxxxxxxxx0 !
+Example                   19: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   21: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   23: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   25: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   27: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   29: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   31: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   33: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   35: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   37: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   39: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   41: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   43: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   45: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   47: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   49: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   51: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Stopped at time : 512 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000010011110 !
+Example                    3: The product of 219 and  79 is        0000000001001111 !
+Example                    5: The product of 219 and  79 is        xxxxxxxx00100111 !
+Example                    7: The product of 219 and  79 is        xxxxxxxxx0010011 !
+Example                    9: The product of 219 and  79 is        xxxxxxxxxx001001 !
+Example                   11: The product of 219 and  79 is        xxxxxxxxxxx00100 !
+Example                   13: The product of 219 and  79 is        xxxxxxxxxxxx0010 !
+Example                   15: The product of 219 and  79 is        xxxxxxxxxxxxx001 !
+Example                   17: The product of 219 and  79 is        xxxxxxxxxxxxxx00 !
+Example                   19: The product of 219 and  79 is        xxxxxxxxxxxxxxx0 !
+Example                   21: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   23: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   25: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   27: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   29: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   31: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   33: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   35: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   37: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   39: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   41: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   43: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   45: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   47: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   49: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   51: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Stopped at time : 512 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Example                    3: The product of 219 and  79 is        xxxxxxxxx0100111 !
+Example                    5: The product of 219 and  79 is        xxxxxxxxxx010011 !
+Example                    7: The product of 219 and  79 is        xxxxxxxxxxx01001 !
+Example                    9: The product of 219 and  79 is        xxxxxxxxxxxx0100 !
+Example                   11: The product of 219 and  79 is        xxxxxxxxxxxxx010 !
+Example                   13: The product of 219 and  79 is        xxxxxxxxxxxxxx01 !
+Example                   15: The product of 219 and  79 is        xxxxxxxxxxxxxxx0 !
+Example                   17: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   19: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   21: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   23: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   25: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   27: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   29: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   31: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   33: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   35: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   37: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   39: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   41: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   43: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   45: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   47: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   49: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Example                   51: The product of 219 and  79 is        xxxxxxxxxxxxxxxx !
+Stopped at time : 512 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Example                    1: The product of 219 and  79 is        0000000001001111 !
+Example                    3: The product of 219 and  79 is        0000000001001111 !
+Example                    5: The product of 219 and  79 is        0000000001001111 !
+Example                    7: The product of 219 and  79 is        0000000001001111 !
+Example                    9: The product of 219 and  79 is        0000000001001111 !
+Example                   11: The product of 219 and  79 is        0000000001001111 !
+Example                   13: The product of 219 and  79 is        0000000001001111 !
+Example                   15: The product of 219 and  79 is        0000000001001111 !
+Example                   17: The product of 219 and  79 is        0000000001001111 !
+Example                   19: The product of 219 and  79 is        0000000001001111 !
+Example                   21: The product of 219 and  79 is        0000000001001111 !
+Example                   23: The product of 219 and  79 is        0000000001001111 !
+Example                   25: The product of 219 and  79 is        0000000001001111 !
+Example                   27: The product of 219 and  79 is        0000000001001111 !
+Example                   29: The product of 219 and  79 is        0000000001001111 !
+Example                   31: The product of 219 and  79 is        0000000001001111 !
+Example                   33: The product of 219 and  79 is        0000000001001111 !
+Example                   35: The product of 219 and  79 is        0000000001001111 !
+Example                   37: The product of 219 and  79 is        0000000001001111 !
+Example                   39: The product of 219 and  79 is        0000000001001111 !
+Example                   41: The product of 219 and  79 is        0000000001001111 !
+Example                   43: The product of 219 and  79 is        0000000001001111 !
+Example                   45: The product of 219 and  79 is        0000000001001111 !
+Example                   47: The product of 219 and  79 is        0000000001001111 !
+Example                   49: The product of 219 and  79 is        0000000001001111 !
+Stopped at time : 510 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/booth_multiplier/booth_mult_tst.v" Line 70

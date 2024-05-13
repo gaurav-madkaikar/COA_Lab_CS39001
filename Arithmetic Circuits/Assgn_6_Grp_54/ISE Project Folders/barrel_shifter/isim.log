@@ -1,0 +1,345 @@
+ISim log file
+Running: C:\Users\gmadk\Desktop\KGP Acad\5th Sem\COA\COA Laboratory\Assignment 6 - Verilog\barrel_shifter\barrel_shifter_tst_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  10       10100110 >> 3 =        00000000
+
+                  20       00000001 >> 6 =        00010100
+
+Stopped at time : 20 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 59
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  10       10100110 >> 3 =        00010100
+
+Stopped at time : 20 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 58
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0       00000000 >> 0 =        00000000
+
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 58
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 59
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 59
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0       00000000 >> 0 =        00000000
+
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 58
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0       xxxxxxxx >> x =        xxxxxxxx
+
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 58
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0       xxxxxxxx >> x =        xxxxxxxx
+
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 60
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+Stopped at time : 30 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 60
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance uut/fbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/fbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/tbit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M1/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M2/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M3/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M4/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M5/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M6/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M7/, width 4 of formal port inp is not equal to width 3 of actual constant.
+WARNING:  For instance uut/obit_M8/, width 4 of formal port inp is not equal to width 3 of actual constant.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                  10       10100110 >> 3 =        00010100
+
+                  20       00000001 >> 6 =        01000000
+
+                  30       10101011 >> 2 =        10101100
+
+Stopped at time : 40 ns : File "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 6 - Verilog/barrel_shifter/barrel_shifter_tst.v" Line 62

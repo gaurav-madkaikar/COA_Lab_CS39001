@@ -1,0 +1,7 @@
+verilog isim_temp "shift_Register_sipo.v"
+verilog isim_temp "shift_register.v"
+verilog isim_temp "full_Adder.v"
+verilog isim_temp "D_flip_flop.v"
+verilog isim_temp "bit_adder.v"
+verilog isim_temp "bit_adder_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

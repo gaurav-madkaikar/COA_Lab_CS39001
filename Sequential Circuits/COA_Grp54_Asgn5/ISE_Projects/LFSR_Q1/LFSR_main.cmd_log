@@ -1,0 +1,20 @@
+xst -intstyle ise -ifn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.xst" -ofn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 "LFSR_main.ngc" LFSR_main.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o LFSR_main_map.ncd LFSR_main.ngd LFSR_main.pcf 
+par -w -intstyle ise -ol high -mt off LFSR_main_map.ncd LFSR_main.ncd LFSR_main.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml LFSR_main.twx LFSR_main.ncd -o LFSR_main.twr LFSR_main.pcf 
+xst -intstyle ise -ifn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.xst" -ofn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 "LFSR_main.ngc" LFSR_main.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o LFSR_main_map.ncd LFSR_main.ngd LFSR_main.pcf 
+par -w -intstyle ise -ol high -mt off LFSR_main_map.ncd LFSR_main.ncd LFSR_main.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml LFSR_main.twx LFSR_main.ncd -o LFSR_main.twr LFSR_main.pcf 
+xst -intstyle ise -ifn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.xst" -ofn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 "LFSR_main.ngc" LFSR_main.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o LFSR_main_map.ncd LFSR_main.ngd LFSR_main.pcf 
+par -w -intstyle ise -ol high -mt off LFSR_main_map.ncd LFSR_main.ncd LFSR_main.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml LFSR_main.twx LFSR_main.ncd -o LFSR_main.twr LFSR_main.pcf 
+xst -intstyle ise -ifn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.xst" -ofn "C:/Users/gmadk/Desktop/KGP Acad/5th Sem/COA/COA Laboratory/Assignment 5 - FSM Design/LFSR_Q1/LFSR_main.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7a100t-csg324-1 "LFSR_main.ngc" LFSR_main.ngd  
+map -intstyle ise -p xc7a100t-csg324-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o LFSR_main_map.ncd LFSR_main.ngd LFSR_main.pcf 
+par -w -intstyle ise -ol high -mt off LFSR_main_map.ncd LFSR_main.ncd LFSR_main.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml LFSR_main.twx LFSR_main.ncd -o LFSR_main.twr LFSR_main.pcf 
